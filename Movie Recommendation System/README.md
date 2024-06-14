@@ -4,7 +4,7 @@ This project is a movie recommendation system that suggests movies based on the 
 
 ## Dataset
 
-The dataset needed for this project can be downloaded from [LINK]. Ensure you have the dataset saved as `movies_data.csv` in the same directory as your script.
+The dataset needed for this project can be downloaded from [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9Za2xZak1sTkcyNzQ5LVBJaEw5UzNreF8zQXxBQ3Jtc0trSzhZZWRPdW41emRXeEdOelBHcnl0aVlWb0ZMbUhJMUI1Z0NvZjFXai03eHp0LVVROTllaGRKOUVFRE1IbGs1UGhySGx3NFBYRVFYWEY0NmxhNkUwYUQ2S3NfWlloc014UWdVckpyN2J0TklTUkU2dw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1cCkwiVv4mgfl20ntgY3n4yApcWqqZQe6%2Fview%3Fusp%3Dsharing&v=7rEagFH9tQg]. Ensure you have the dataset saved as `movies.csv` in the same directory as your script.
 
 ## Installation
 
@@ -39,7 +39,7 @@ The recommendation system works as follows:
 
 ## Usage
 
-1. Ensure you have the dataset `movies_data.csv` in the same directory as your script.
+1. Ensure you have the dataset `movies.csv` in the same directory as your script.
 2. Run the script.
 3. Enter your favorite movie name when prompted.
 4. The script will output a list of recommended movies based on your input.
