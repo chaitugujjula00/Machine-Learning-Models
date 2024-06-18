@@ -1,7 +1,3 @@
-https://github.com/chaitugujjula00/Machine-Learning-Models
-
-Great! Here is the README file customized for your specific projects: Face Mask Detection, Movie Recommendation, and Credit Card Fraud Detection.
-
 ---
 
 # Machine Learning Projects Collection
